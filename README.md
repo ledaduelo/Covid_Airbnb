@@ -1,15 +1,13 @@
 # Covid_Airbnb
 
 # The goal
-This is the analysis on which the medium's post is based...
-What happened to the rents that are on Airbnb during the covid?  
-The data is the apartments for months I have downloaded the data from February to April 2019 and 2020 to see what has happened
+This is the analysis on which the medium's post is based... What happened to the rents that are on Airbnb during the covid? 
 
 In mid-March, quarantines and border closures began in Europe to deal with COVID. 
 How has this quarantine affected Airbnb's supply? The wired indicates that they are moving to long-term rental sites 
 
 * **Question 1**: without tourism, What happened to tourist rentals?
-* **Question 2 **: Is the behaviour homogeneous or does any of the characteristics of the rentals take precedence?
+* **Question 2**: Is the behaviour homogeneous or does any of the characteristics of the rentals take precedence?
 you look at how the rentals behave in your area (neighbourhood) or your level (price).
 * **Question 3**: Is the behavior of all host homogeneous?
 Understand the type of host and how each guest has behaved in the face of uncertainty
@@ -19,6 +17,7 @@ Some articles published in the press in the UK and comments on twitter where the
 I wanted to know what the reality was in Airbnb Madrid
 
 # Data 
+The data is the apartments for the moment start the quarentine. I have downloaded the data from March to April 2019 and 2020 to see what has happened
 I compare the March and April data from Airbnb inside for Madrid.
 
 
